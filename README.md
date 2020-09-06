@@ -1,2 +1,20 @@
-# Apuntes_Fundamentos_de_programacion
-Mis resúmenes de aprendizaje
+---
+description: Generalidades
+---
+
+# CONCEPTOS BÁSICOS
+
+## LENGUAJES DEL LADO DEL CLIENTE: 
+
+Ejemplos: JAVASCRIPT, VBSCRIPT, APPLETS JAVA, HTML, CSS
+
+## LENGUAJES DEL LADO DEL SERVIDOR:
+
+Ejemplos: PHP, JSP, PERL, ASP
+
+
+
+REFERENTES
+
+
+
